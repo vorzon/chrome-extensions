@@ -1,21 +1,28 @@
 var apis = [{
+	name: "百域阁",
+	url: "http://api.baiyug.cn/vip/index.php?url=",
+}, {
+	name: "乐乐视频解析",
+	url: "http://www.662820.com/xnflv/index.php?url=&url="
+}, {
+	name: "旋风解析",
+	url: "http://api.xfsub.com/index.php?url=",
+},{
+	name: "jqaaa",
+	url: "http://jqaaa.com/jx.php?url="
+}, {
+	name: "92fz",
+	url: "http://jiexi.92fz.cn/player/vip.php?url="
+},
+{
 	name: "vParse[腾讯]",
 	url: "https://api.vparse.org/?url="
 }, {
 	name: "噗噗电影",
 	url: "http://pupudy.com/play?make=url&id=",
 }, {
-	name: "PU.tn",
-	url: "http://api.pu.tn/qq1/?url=",
-}, {
 	name: "酷绘",
 	url: "http://appapi.svipv.kuuhui.com/svipjx/liulanqichajian/browserplugin/qhjx/qhjx.php?id=",
-}, {
-	name: "百域阁",
-	url: "http://api.baiyug.cn/vip/index.php?url=",
-}, {
-	name: "旋风解析",
-	url: "http://api.xfsub.com/index.php?url=",
 }, {
 	name: "石头解析",
 	url: "https://jiexi.071811.cc/jx.php?url=",
