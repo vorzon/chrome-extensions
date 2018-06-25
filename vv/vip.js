@@ -22,6 +22,9 @@ var apis = [{
 }, {
 	name: "眼睛会下雨",
 	url: "http://www.vipjiexi.com/yun.php?url=",
+}, {
+	name: "问题反馈: qq 810981104",
+	url: "",
 }];
 
 var ul = document.getElementsByTagName("ul")[0];
