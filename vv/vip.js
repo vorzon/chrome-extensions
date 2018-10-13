@@ -1,12 +1,12 @@
 var apis = [{
-	name: "酷绘",
-	url: "http://appapi.svipv.kuuhui.com/svipjx/liulanqichajian/browserplugin/qhjx/qhjx.php?id=",
+	name: "sonimei",
+	url: "http://www.sonimei.cn/?url="
+}, {
+	name: "玩的嗨",
+	url: "http://tv.wandhi.com/go.html?url="
 }, {
 	name: "百域阁",
 	url: "http://api.baiyug.cn/vip/index.php?url=",
-}, {
-	name: "旋风解析[优酷]",
-	url: "http://api.xfsub.com/index.php?url=",
 }, {
 	name: "石头解析[腾讯]",
 	url: "https://jiexi.071811.cc/jx.php?url=",
@@ -15,7 +15,7 @@ var apis = [{
 	url: "http://jiexi.92fz.cn/player/vip.php?url="
 }, {
 	name: "噗噗电影",
-	url: "http://pupudy.com/play?make=url&id=",
+	url: "http://pupudy.com/splay.php?play=",
 }, {
 	name: "人人发布",
 	url: "http://v.renrenfabu.com/jiexi.php?url=",
